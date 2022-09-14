@@ -97,3 +97,6 @@ let isChecked = true,
 isColse =false;
 
 console.log(isChecked && (isColse ))
+
+// 1- promt Hello My Name's Jahongir 
+// 2- promt I'm 18 yer's old

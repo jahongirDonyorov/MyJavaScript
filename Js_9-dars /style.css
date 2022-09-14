@@ -1,0 +1,24 @@
+/* .cssH1{
+  background-color: crimson;
+} */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box{
+  width: 100px;
+  height: 100px;
+  background: crimson;
+  display: inline-block;
+  margin: 10px;
+}
+.circle{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: chocolate;
+  display: inline-block;
+}

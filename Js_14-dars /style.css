@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.crimson{
+  margin: 20px 0 10px 40px;
+}
+.wrapper{
+  position: relative;
+  width: 400px;
+  height: 400px;
+  border: solid red 2px;
+  margin-left: 40px;
+}
+.boxes{
+  position: absolute;
+  background-color: red;
+  width: 93px;
+  height: 93px;
+  margin: 2px;
+  float: left;
+}
