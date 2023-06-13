@@ -79,8 +79,8 @@ let text = 'hello WORLD';
 // console.log(text[0] = 'm');
 // console.log(text.toLocaleLowerCase());//kichik harflar
 // console.log(text.toUpperCase());//katta harflar
-// console.log(text.indexOf('W'));//qayardan boshlangani  w 6dan boshlangan
-// console.log(text.slice(6, 11));//kesib beradi -holatiyam bor  teskari sanaydi uu
+// console.log(text.indexOf('W'));//index
+// console.log(text.slice(1, 7));//kesib beradi -holatiyam bor  teskari sanaydi uu
 // console.log(text.substring(4));//buham kesadi bunda menus utmaydi 
 
 
